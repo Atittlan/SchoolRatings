@@ -1,0 +1,2 @@
+# SchoolRatings.github.io
+host
